@@ -1,0 +1,18 @@
+.lead:hover{
+    color: aqua;
+}
+#myName{
+    color: aqua;
+}
+.profilePhoto:hover{
+    box-shadow: 2px 2px 2px 2px white;
+}
+a{
+    text-decoration:none;
+}
+.contactSec{
+    margin-top: 150px;
+}
+li{
+    list-style: none;
+}
